@@ -4,6 +4,11 @@
 
 > **Disclaimer:** This project is for learning and demonstration purposes only. It is not a medical device and must not be used for diagnosis, treatment, or real-world medical decisions.
 
+
+## 🚀 Live Demo
+
+**Try HeartGuard-AI here:** [Live Application](https://heartgaurd-ai-ezxqcsqyhtszrurgf2yes6.streamlit.app/)
+
 ## Features
 
 - **Single prediction:** Enter the 13 input features manually and receive a model prediction with its disease-class probability.
